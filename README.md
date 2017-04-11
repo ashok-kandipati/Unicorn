@@ -1,2 +1,2 @@
-# datascience
+# Data Science
 Data Science Related Projects
